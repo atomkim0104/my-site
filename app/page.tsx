@@ -21,6 +21,9 @@ export default function Home() {
           <h1 className="text-4xl md:text-5xl font-extrabold tracking-tight">
             안녕하세요, <span className="text-teal-600 dark:text-teal-400">[김기환]</span>입니다
           </h1>
+          <p className="text-lg md:text-xl font-medium text-zinc-700 dark:text-zinc-300">
+            방문해 주셔서 진심으로 환영합니다!
+          </p>
           <p className="text-base md:text-lg text-zinc-600 dark:text-zinc-400 max-w-xl mx-auto">
             TypeScript, App Router, Tailwind CSS가 모두 구성되어 있습니다. 지금 바로 원하는 컴포넌트를 추가해 보세요.
           </p>
