@@ -72,6 +72,10 @@ export default function Home() {
         <footer className="text-xs text-zinc-500 dark:text-zinc-500 pt-4">
           페이지 수정 시작: <code className="text-zinc-700 dark:text-zinc-300 font-mono">app/page.tsx</code>
         </footer>
+
+        <p style={{ color: "#C84726" }} className="text-sm font-medium">
+          [오늘 처음 인터넷에 사이트를 올렸어요!]
+        </p>
       </div>
     </main>
   );
