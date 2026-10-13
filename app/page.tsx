@@ -618,6 +618,7 @@ export default function HomePage() {
                   src={selectedProperty.image}
                   alt={selectedProperty.title}
                   fill
+                  sizes="(max-width: 768px) 100vw, 672px"
                   className="object-cover"
                 />
               </div>
