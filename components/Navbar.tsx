@@ -32,7 +32,7 @@ export default function Navbar() {
               HERITAGE <span className="text-[#d4af37] font-sans text-xs uppercase tracking-wider font-semibold">REALTY</span>
             </span>
             <span className="text-[11px] text-slate-400 font-medium tracking-tight">
-              민효정 공인중개사사무소
+              김기환 공인중개사사무소
             </span>
           </div>
         </Link>

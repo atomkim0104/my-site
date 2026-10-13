@@ -41,12 +41,12 @@ export default function Footer() {
               </span>
               <span className="text-slate-600">|</span>
               <span className="font-medium text-slate-300">
-                헤리티지 민효정 공인중개사사무소
+                헤리티지 김기환 공인중개사사무소
               </span>
             </div>
 
             <p className="text-slate-400 leading-relaxed text-[11px] sm:text-xs">
-              대표 공인중개사: <span className="text-slate-200 font-medium">민효정</span> &nbsp;•&nbsp; 
+              대표 공인중개사: <span className="text-slate-200 font-medium">김기환</span> &nbsp;•&nbsp; 
               중개사무소 등록번호: <span className="text-slate-200">제11680-2026-00382호</span><br />
               사업자등록번호: <span className="text-slate-200">214-88-02841</span> &nbsp;•&nbsp; 
               소재지: 서울특별시 서초구 반포대로 287 헤리티지 타워 4층<br />
@@ -94,7 +94,7 @@ export default function Footer() {
         {/* Bottom copyright */}
         <div className="mt-8 pt-6 border-t border-slate-900 flex flex-col sm:flex-row items-center justify-between gap-3 text-[11px] text-slate-500">
           <div>
-            © {new Date().getFullYear()} 헤리티지 부동산 중개법인 (민효정 공인중개사). All Rights Reserved.
+            © {new Date().getFullYear()} 헤리티지 부동산 중개법인 (김기환 공인중개사). All Rights Reserved.
           </div>
           <div className="flex items-center gap-4">
             <span className="hover:text-slate-400 cursor-pointer">개인정보처리방침</span>

@@ -663,7 +663,7 @@ export default function HomePage() {
 
               <div className="p-3.5 bg-[#d4af37]/10 border border-[#d4af37]/30 rounded-xl text-xs text-[#f4e29e] flex items-center justify-between">
                 <div>
-                  <div className="font-bold">담당 공인중개사: 민효정 대표</div>
+                  <div className="font-bold">담당 공인중개사: 김기환 대표</div>
                   <div className="text-[11px] text-slate-300">권리분석서 제공 및 현장 프라이빗 동행 투어 가능</div>
                 </div>
                 <a
@@ -1036,7 +1036,7 @@ export default function HomePage() {
               <div className="space-y-3">
                 <div className="flex text-[#d4af37] text-sm">★★★★★</div>
                 <p className="text-xs sm:text-sm text-slate-300 leading-relaxed font-light">
-                  "반포 펜트하우스 매수 과정에서 세무 취득세 중과 이슈 때문에 고민이 깊었는데, 민효정 대표님께서 전문 세무사와 함께 최적의 방안을 도출해주셔서 편안하게 계약을 마칠 수 있었습니다."
+                  "반포 펜트하우스 매수 과정에서 세무 취득세 중과 이슈 때문에 고민이 깊었는데, 김기환 대표님께서 전문 세무사와 함께 최적의 방안을 도출해주셔서 편안하게 계약을 마칠 수 있었습니다."
                 </p>
               </div>
               <div className="pt-3 border-t border-slate-800 text-xs">
@@ -1103,7 +1103,7 @@ export default function HomePage() {
               </div>
               <h3 className="text-2xl font-bold text-white">상담 신청이 정상 접수되었습니다</h3>
               <p className="text-xs sm:text-sm text-slate-300 max-w-md mx-auto leading-relaxed">
-                헤리티지 민효정 대표 공인중개사가 남겨주신 연락처(<span className="text-[#f4e29e] font-mono">{formPhone || "입력하신 번호"}</span>)로 사전 자료를 검토한 뒤 30분 이내에 연락드리겠습니다.
+                헤리티지 김기환 대표 공인중개사가 남겨주신 연락처(<span className="text-[#f4e29e] font-mono">{formPhone || "입력하신 번호"}</span>)로 사전 자료를 검토한 뒤 30분 이내에 연락드리겠습니다.
               </p>
               <button
                 onClick={() => {

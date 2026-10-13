@@ -4,12 +4,12 @@ import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
-  title: "헤리티지 부동산 | 민효정 공인중개사사무소 - 프리미엄 하이엔드 중개",
+  title: "헤리티지 부동산 | 김기환 공인중개사사무소 - 프리미엄 하이엔드 중개",
   description:
     "하이엔드 아파트, 고급 펜트하우스, 상업용 빌딩 및 자산관리 전문. 철저한 권리분석과 1:1 맞춤형 프리미엄 부동산 중개 솔루션을 제공합니다.",
   keywords: [
     "헤리티지 부동산",
-    "민효정 공인중개사",
+    "김기환 공인중개사",
     "강남 부동산",
     "서초 펜트하우스",
     "고급빌라 중개",

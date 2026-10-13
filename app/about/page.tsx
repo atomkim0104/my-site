@@ -4,7 +4,7 @@ import Link from "next/link";
 export const metadata: Metadata = {
   title: "공인중개사 소개 & 오시는 길 | 헤리티지 부동산",
   description:
-    "대표 공인중개사 민효정 프로필, 중개 철학, 전문 자격 및 서초 반포 헤리티지 타워 오시는 길 안내입니다.",
+    "대표 공인중개사 김기환 프로필, 중개 철학, 전문 자격 및 서초 반포 헤리티지 타워 오시는 길 안내입니다.",
 };
 
 export default function AboutPage() {
@@ -52,7 +52,7 @@ export default function AboutPage() {
           </div>
           <h1 className="text-3xl sm:text-5xl font-serif font-black tracking-tight text-white">
             신뢰와 가치를 중개하는 <br />
-            <span className="gold-gradient-text">대표 공인중개사 민효정</span>입니다
+            <span className="gold-gradient-text">대표 공인중개사 김기환</span>입니다
           </h1>
           <p className="text-slate-300 max-w-2xl mx-auto text-sm sm:text-base leading-relaxed font-light">
             부동산은 단순한 거래의 대상이 아니라, 고객과 가문의 소중한 자산이자 역사입니다. <br className="hidden sm:inline" />
@@ -73,7 +73,7 @@ export default function AboutPage() {
                 </div>
               </div>
               <div>
-                <h3 className="text-lg font-bold text-white">민 효 정</h3>
+                <h3 className="text-lg font-bold text-white">김 기 환</h3>
                 <p className="text-xs text-[#d4af37] font-medium">헤리티지 부동산 대표 공인중개사</p>
               </div>
             </div>
